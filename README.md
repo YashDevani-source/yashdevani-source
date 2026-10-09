@@ -9,7 +9,7 @@
 </a>
 
 <p>
-  <a href="https://yashdevani.me"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfolio" /></a>
+  <a href="http://yashdevani.me"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/yash-devani-744297324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:work.yashdevani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://peerlist.io/YOUR_PEERLIST_USERNAME"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" /></a>
